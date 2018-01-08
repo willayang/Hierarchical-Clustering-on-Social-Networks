@@ -8,6 +8,8 @@ between two different communities; that is, a and b do not belong to the same
 community.
 
 Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets. Cambridge university press.
+
+
 Input Example:
 Alice, Bruce
 David, Ellen
